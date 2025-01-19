@@ -1,7 +1,7 @@
 // console.log("LETS GET STARTED MY PEOPLE")
 // age = 23;
 // if (age ==45){
-//     console.log("This ocndiion is true ")
+//     console.log("This condition is true ")
 // }else if(age <= 15){
 //     console.log("This is true")
 // }else if (age <=3){
@@ -57,7 +57,7 @@
 
 //  year = 2004 
 //  YourAge = 2024 - year 
-//  console.log("You are :",YourAge,"years")
+//  console.log("You are:", YourAge, "years")
 //  console.log("Your favourite 6 even numbers are :")
 //  // USING FOR LOOP
 //  let i;
@@ -69,7 +69,8 @@
 //  Relation = "the relationship between Ama and Kofi"
 //  console.log("Ama is the sister of Kofi")
 
-// assignment one 
-console.log ("HELLO WORLD")
+// Leaving
+console.log ("Bye!!!")
+console.log("Keep Yourself motivated; because no one is gonna do for you")
 
 
